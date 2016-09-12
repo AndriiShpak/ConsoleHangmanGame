@@ -1,0 +1,16 @@
+﻿  FieldView.cpp
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(148): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(152): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(235): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(291): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(299): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(301): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(303): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(305): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(326): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(330): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\university\програмування\tic-tac-toe\tic-tac-toe (final version)\game\fieldview.cpp(334): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Game.vcxproj -> G:\University\Програмування\Tic-Tac-Toe\Tic-Tac-Toe (final version)\x64\Debug\Game.exe

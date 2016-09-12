@@ -1,0 +1,39 @@
+﻿  WordsManipulator.cpp
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\wordsmanipulator.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  View.cpp
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\view.cpp(14): warning C4018: '<': signed/unsigned mismatch
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\view.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  ResultView.cpp
+  Printer.cpp
+  OptionsView.cpp
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\optionsview.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\optionsview.cpp(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\optionsview.cpp(104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Navigation.cpp
+  MenuView.cpp
+  LettersManipulator.cpp
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\lettersmanipulator.cpp(20): warning C4018: '<': signed/unsigned mismatch
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\lettersmanipulator.cpp(71): warning C4018: '<': signed/unsigned mismatch
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\lettersmanipulator.cpp(82): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\lettersmanipulator.cpp(83): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  LanguageManipulator.cpp
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\languagemanipulator.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  HighscoresView.cpp
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\highscoresview.cpp(65): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\highscoresview.cpp(79): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  HangmanPicture.cpp
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\hangmanpicture.cpp(23): warning C4018: '<': signed/unsigned mismatch
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\hangmanpicture.cpp(67): warning C4018: '>=': signed/unsigned mismatch
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\hangmanpicture.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  GreetingView.cpp
+  GameView.cpp
+  GameLogic.cpp
+  Game.cpp
+  FilesManipulator.cpp
+  ConsoleManipulators.cpp
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\consolemanipulators.cpp(39): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+g:\university\навчальна практика\console games\hangman\hangman_shpak_andriy\hangman\menuview.cpp(137): warning C4715: 'MenuView::getNextView': not all control paths return a value
+  Hangman.vcxproj -> G:\University\Навчальна практика\Console games\Hangman\Hangman_Shpak_Andriy\Debug\Hangman.exe
+  Hangman.vcxproj -> G:\University\Навчальна практика\Console games\Hangman\Hangman_Shpak_Andriy\Debug\Hangman.pdb (Partial PDB)
